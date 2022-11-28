@@ -17,7 +17,7 @@ You can find the code for this project [here](https://github.com/dataquestio/pro
 
 File overview:
 
-* `predict.ipynb` - notebook to make predictions
+* `code.ipynb` - notebook to make predictions
 
 # Prerequisites
 
